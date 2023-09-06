@@ -1,0 +1,63 @@
+Summary of "Philosophy of AI" seminar, which is held at 06 Sept 2023.
+    Narasumber : Prof. Ir. Drs. H. Saparudin, M.T., Ph.D., IPM., ASEAN Eng.
+      Dosen S3 at Telkom University, Bandung.
+---
+
+Pendahuluan
+  Apabila seseorang ingin mengetauhi dan memahami kebenaran dari pandangan, ide , dan konsep suatu ilmu pengetahuan. Maka hal tersebut diperoleh dari mempelajari filsafat,
+contohnya Philosophy of Computer Science, Philosophy of Mind, Philosophy of Deep Learning, dan lain-lain. Filsafat merupakan ilmu yang meliputi kebenaran yang terkandung di dalamnya 
+berdasarkan akal sehat (Common Sense) manusia. Filsafat merupakan ilmu yang berada diantara agama dan sains. Filsafat adalah Mother of Science. Dengan mempelajari filsafat, kita dapat 
+mengetauhi dan memahami Ontologi, Epistemologi, dan Aksiologi dari suatu ilmu pengetahuan.
+
+  AI merupakan cabang dari Computer Science, berupa sistem komputer yang mampu melakukan tugas-tugas yang biasanya membutuhkan kecerdasan manusia. AI merupakan ilmu pengetahuan
+yang berasal dari konsep pemikiran tentang kecerdasan komputer yang dapat meniru kecerdasan manusia. AI telah dapat meniru sebagian pemikiran rasional (Rational thinking)(Pada AI disebut
+Expert System) sebagian pemikiran empiris (Empirical Thinking)(Dalam AI disebut Machine Learning). Saat ini, Ilmuwan AI sedang meniliti kemungkinan AI memiliki perasaan (Sentience)
+dan kesadaran (Consciousness). Filsuf dan Ilmuwan barat sedang menganalisis dan merancang fundamental konsep Artificial General Intelligence (AGI) yakni, AI yang tidak hanya memiliki
+pikiran, tapi juga perasaan dan kesadaran serta mampu mengerjakan beberapa tugas secara bersamaaan.
+
+Perkembangan Ilmu pengetahuan dan Teknologi AI dalam dua dekade (2012 - Sekarang) sangat signifikan. Dimulai dari kemampuan berfikir AI dengan Artificial Neural Network dalam permainan 
+catur yang dirancang oleh IBM deepblue mengalahkan juara catur dunia Garry Kasparov. Di tahun 2022 yang lalu perusahaan OpenAI meluncurkan ChatGPT, merupakan chatbot berbasis AI 
+dengan pendekatan Natural Language Model yang dapat melakukan interaksi percakapan, memberikan jawaban ketika pengguna mengirim pertanyaan.
+
+Philosophy of AI adalah cabang dari Philosophy of Mind dan Philosophy of Computer Science yang mengeksplorasi AI dan implikasinya terhadap pengetahuan dan pemahaman tentang kecerdasan,
+etika, kesadaran, epistemologi, dan kehendak bebas.
+
+Filosofi ini mencoba menjawab pertanyaan-pertanyaan seperti berikut:
+1) Bisakah sebuah mesin bertindak dengan cerdas? Bisakah itu memecahkan masalah apapun sama seperti akal manusia?
+
+
+Definisi AI
+  Perdebatan dan ketidaksepahaman diantara ilmuwan menyebabkan AI memiliki banyak definisi, AI dikatakan sepertinya cerdas, dan bukan sebenarnya cerdas, hanya tampak cerdas.
+Ada berbagai jenis kecerdasan, termasuk kecerdasan hewan. Ilmuwan komputer juga telah menemukan bahwa AI sering menyelesaikan tugas-tugas seperti optimasi, data mining, big data analytic
+dengan efesien saat menggunakan metode non-manusia. Dengan kata lain, kecerdasan dan metode manusia tidak selalu merupakan cara terbaik untuk AI.
+
+Apa itu Artificial General Intelligence?
+  Ai dibagi menjadi dua kategori : 1) Weak AI / Narrow AI, 2) Strong AI / AGI
+Weak AI hanya berfokus pada tugas yang sempit. Semua AI saat ini adalah Weak AI.
+Strong AI, dapat melakukan banyak tugas dan hal sekaligus, AGI tidak akan hanya "bertindak" seolah-olah berpikir, tetapi akan benar-benar berpikir.
+
+Masalah apa sejauh ini dalam menciptakan Artificial general Intelligence?
+1) Manusia mampu melakukan banyak hal yang berbeda, seringkali pada waktu yang bersamaan.
+2) Manusia bukanlah komputer digital yang terbuat dari logam dan plastik, tetapi dari darah dan daging.
+3) Manusia menggunakan jalan pintas mental, membuat keputusan instan dari metode intuitif dan emosional.
+4) AI dibatasi oleh daya komputasi yang terbatas.
+5) AGI membutuhkan intuisi seperti manusia, tetapi manusia adalah hal yang sulit ditiru.
+
+Kelemahan dan keterbatasan Pikiran Manusia.
+!) Persepsi manusia hanyalah tebakan yang terdidik di hadapan informasi yang terbatas.
+2) Manusia memiliki banyak bias irasional yang mengaburkan penilaian mereka dan membuat persepsi dan penilaian yang objektif menjadi mustahil.
+3) Persepsi manusia secara individual bersifat subjektif.
+4) Apa yang dipersepsi manusia berbeda dengan apa yang mereka lihat.
+
+Apakah AI berfikir?
+  "Sekarang di dunia ini ada mesin yang berfikir, yang belajar dan yang mencipta." - Herbert A. Simon dan Turing. (Nobel Prize Winner)
+Namun para filsuf berpendapat bahwa kecerdasan buatan hanya "tampak memiliki" fikiran, yang tidak dapat dijadikan bukti bahwa komputer benar-benar berpikir.
+
+Apa bahaya AI yang mungkin dipercaya?
+1) Banyak manusia takut akan perubahan dan ketidaktahuan.
+2) Banyak manusia takut akan kecerdasan buatan otonom seperti senjata militer, yang memutuskan apa yang harus dibunuh, dan komputer yang dapat mengubah dan mengembangkan dirinya sendiri.
+3) Manusia harus berhati-hati terhadap arahan yang diberikannya kepada AI.
+
+
+
+
